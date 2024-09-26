@@ -1,4 +1,4 @@
-    import tkinter as tk
+import tkinter as tk
 from tkinter import messagebox
 
 #This class represents a badminton Racket with a name and price
